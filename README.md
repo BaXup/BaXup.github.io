@@ -2,7 +2,7 @@
 
 BaXup, a git-based cross-folder backup application written in SwiftUI.
 
-[Download Here](https://github.com/BaXup/BaXup.github.io/releases/tag/1.0)
+[Download Here](https://github.com/BaXup/BaXup.github.io/releases/tag/1.0)&nbsp;&nbsp;&nbsp; [下载](https://github.com/BaXup/BaXup.github.io/releases/tag/1.0)
 
 ### Why this?
 
